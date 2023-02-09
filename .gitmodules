@@ -1,3 +1,0 @@
-[submodule "emscripten"]
-	path = app/emscripten
-	url = git@github.com:PGEtinker/emscripten.git
